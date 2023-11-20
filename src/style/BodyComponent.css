@@ -1,0 +1,7 @@
+.body-div {
+  background-color: #cbd0d58d;
+  width: 100vw;
+  height: 88vh;
+  display: flex;
+  justify-content: space-around;
+}
